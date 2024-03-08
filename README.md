@@ -4,12 +4,12 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Query doc]()
+- [Query doc](https://github.com/GaneshKolekar4753/Sql_Car_dekho/car_dekho.csv)
 
 ### Project Overview
 ---
 
-This data analysis project aims to provide analysis of cars as per the demands of manager and clients and provide them the data.The data is taken from cars_dekho.csv file.
+This data analysis project aims to provide analysis of cars as per the demands of manager and clients and provide them the data.The data is taken from [cars_dekho.csv](https://github.com/GaneshKolekar4753/Sql_Car_dekho/cars_dekho.csv) file.
 
 
 
