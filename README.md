@@ -8,7 +8,7 @@
 ### Project Overview
 ---
 
-This data analysis project aims to provide analysis of cars as per the demands of manager and clients and provide them the data.The data is taken from Car dekho.csv file.
+This data analysis project aims to provide analysis of cars as per the demands of manager and clients and provide them the data.The data is taken from cars_dekho.csv file.
 
 
 
@@ -37,6 +37,7 @@ EDA involved exploring the cars data to answer key questions, such as:
 - The manager asks to employee how many cars avilable in 2023?
 - The client requested to car dialer agent How many petrol cars will be in 2020?
 - The manager told to employee to give a print all the fuel cars (petrol, diesel and CNG) come by all year?
+- and more...
 
 ### Data Analysis
 
